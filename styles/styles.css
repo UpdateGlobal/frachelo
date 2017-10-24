@@ -1,6 +1,13 @@
 /*-------------------------------------------------------------------------------------*/
 /*	BASE
 /*--TEXTO AL CENTRO DE LA IMAGEN EN LA PESTAÑA HISTORIA---*/
+.sube{
+	position: relative;
+	bottom: 15.5px;
+}
+h4{
+	color: #579848;
+}
 .letra{
 	position: relative;
 	right: 57px;
@@ -88,7 +95,7 @@ a:hover{
 color: #f90;
 }
 
-h1, h2, h3, h4, h5, h6{
+h1, h2, h3, h5, h6{
 margin-bottom: 0.6em;
 font: normal normal 3em/1em 'Open Sans Condensed Bold', Arial, sans-serif;
 text-transform: uppercase;

@@ -1,6 +1,162 @@
 /*-------------------------------------------------------------------------------------*/
 /*	BASE
 /*--TEXTO AL CENTRO DE LA IMAGEN EN LA PESTAÑA HISTORIA---*/
+/*--NUEVO ESTILO DE BARRA DE REDES SOCIALES---*/
+body{
+background:#f5f5f5;
+} 
+
+h2
+{
+text-align:center;
+color:#dbdbdb;
+font-family:arial;
+text-shadow:0px 2px 2px #c1c1c1;
+}
+
+#socialicons
+{
+width:75%;
+margin:0 auto;
+overflow:auto;
+}
+  
+.socialicon
+{
+width:65px;
+height:64px;
+border-radius:50%;
+overflow:hidden;
+background:#e4e4e4;
+position:relative;
+float:left;
+margin:0px 0px 10px 10px ;
+} 
+
+.socialiconcircle1
+{
+width:65px;
+height:80px;
+position:absolute;
+left:0px;
+top:110px;
+-webkit-animation:fill 2s infinite;
+-moz-animation:fill 2s infinite;
+animation:fill 2s infinite;
+}
+
+.socialiconcircle2
+{
+width:57px;
+height:58px;
+border-radius:50%;
+background:#55acee;
+position:absolute;
+left:3px;
+top:3px;
+}
+.socialiconcircle3{
+width:57px;
+height:58px;
+border-radius:50%;
+background:	#3b5998;
+position:absolute;
+left:3px;
+top:3px;
+}
+.socialiconcircle4{
+width:57px;
+height:58px;
+border-radius:50%;
+background:	#bb0000;
+position:absolute;
+left:3px;
+top:3px;
+}
+.icons
+{
+font-size:1em;
+position:absolute;
+left: 18px;
+top: 0px;
+-webkit-animation:iconjump 2s infinite;
+-moz-animation:iconjump 2s infinite;
+animation:iconjump 2s infinite;  
+}
+
+/* fill color */  
+.dribbblecolor{background:#5aadeb;}
+.facebookcolor{background:#3b5998;} 
+.googlecolor{background:#dd4b39;} 
+.flickrcolor{background:#ff0084;}
+.pinterestcolor{background:#c8232c;}
+.youtubecolor{background:#bb0000;}
+.githubcolor{background:#171515;}
+.linkedincolor{background:#0e76a8;}
+.tumblrcolor{background:#34526f;}
+
+/* icons color */  
+.dribbble{color:#fff!important}
+.facebook{color:#fff!important}
+.google{color:#dd4b39!important}                                   
+
+.pinterest{color:#c8232c!important;}
+.youtube{color:#fff!important;}  
+
+
+
+/* fill background */      
+@-webkit-keyframes fill
+{
+0%{top:100px;}
+100%{top:0px;}
+}
+
+@-moz-keyframes fill
+{
+0%{top:100px;}
+100%{top:0px;}
+}
+
+@keyframes fill
+{
+0%{top:100px;}
+100%{top:0px;}
+}
+
+/* jump social icons */
+@-webkit-keyframes iconjump
+{
+0%{top:33px;}
+10%{top:70px;}
+20%{top:33px;}
+50%{top:33px;}
+90%{top:33px;} 
+100%{top:33px;}
+}
+
+@-moz-keyframes iconjump
+{
+0%{top:33px;}
+10%{top:70px;}
+20%{top:33px;}
+50%{top:33px;}
+90%{top:33px;} 
+100%{top:33px;}
+}
+
+@keyframes iconjump
+{
+0%{top:33px;}
+10%{top:70px;}
+20%{top:33px;}
+50%{top:33px;}
+90%{top:33px;} 
+100%{top:33px;}
+}
+
+/*--FINALISACION ESTILO DE BARRA DE REDES SOCIALES---*/
+
 .sube{
 	position: relative;
 	bottom: 15.5px;
@@ -24,10 +180,7 @@ h6{
 	position: relative;
 	top: 5px;
 }
-.is{
-	position: relative;
-	left: 50px;
-}
+
 .movi2{
 	position: relative;
 	left: 50px;
@@ -528,7 +681,7 @@ background: url(../images/texture.png) repeat 0 0 #000;
 			width: 30px;
 			height: 46px;
 			font: normal normal 15px/48px 'TSIcons';
-			color: #579848;
+			color: #fff;
 			border-top: 2px solid transparent;
 			border-bottom: 2px solid transparent;
 			}
@@ -2664,7 +2817,11 @@ height: 100%;
 .fullscreen-caption{
 position: absolute;
 top: 30px;
-left: 0;
+left: 750px;
+}
+.izquierda{
+	position: relative;
+	right: 750px;
 }
 
 .fullscreen-caption > *{

@@ -120,7 +120,7 @@
 							<li class="current">
 								<a href="index.html">HISTORIA</a>
 								<ul>
-									<li><a href="video-demostrativo.html">VIDEO DEMOSTRATIVO</a></li>
+									<li><a href="video-demostrativo.php">VIDEO DEMOSTRATIVO</a></li>
 								</ul>
 							</li>
 							<li>
@@ -128,7 +128,7 @@
 								<ul>
 									<li>
 										<li>
-										<a href="nuestra-carta.html">NUESTRA CARTA</a>
+										<a href="nuestra-carta.php">NUESTRA CARTA</a>
 									</li>
 									</li>
 							
@@ -137,7 +137,7 @@
 							<li>
 								<a href="">UBÍCANOS</a>
 								<ul>
-									<li><a href="contacto.html">CONTACTO</a></li>
+									<li><a href="contacto.php">CONTACTO</a></li>
 								</ul>
 							</li>
 						</ul>

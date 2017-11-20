@@ -69,7 +69,7 @@
 							
 							    <div class="movi2"><br>
 							  <button class="color">
-								<a href="nuestras-delicias.html"><h6>NUESTRAS DELICIAS</h6></a>
+								<a href="nuestras-delicias.php"><h6>NUESTRAS DELICIAS</h6></a>
 							</button></div>
 						   </div>
 <br><br>

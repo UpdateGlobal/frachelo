@@ -84,7 +84,7 @@
 			<!--<div id="dock">
 				 <header id="header">
 					<div id="site-logo">
-						<a href="index.html">
+						<a href="index.php">
 							<img src="images/logo.png" alt="Site Logo" />
 						</a>
 					</div><!-- #site-logo -->
@@ -92,13 +92,13 @@
 				<!--	<nav id="main-nav">
 						<ul>
 							<li class="current">
-								<a href="index.html">HISTORIA</a>
+								<a href="index.php">HISTORIA</a>
 								<ul>
-									<li><a href="home-showreel.html">VIDEO DEMOSTRATIVO</a></li>
+									<li><a href="home-showreel.php">VIDEO DEMOSTRATIVO</a></li>
 								</ul>
 							</li>
 							<li>
-								<a href="portfolio-classic-4-w-filter.html">MAS SALUDABLE</a>
+								<a href="portfolio-classic-4-w-filter.php">MAS SALUDABLE</a>
 								<ul>
 									<li>
 										<a href="#">NUESTRA CARTA</a>
@@ -106,7 +106,7 @@
 											<li>
 												<a href="#">VISTAS</a>
 												<ul>
-													<li><a href="portfolio-classic-4-w-filter.html">VISTA</a></li>
+													<li><a href="portfolio-classic-4-w-filter.php">VISTA</a></li>
 												</ul>
 											</li>
 										</ul>
@@ -114,7 +114,7 @@
 									<li>
 										<a href="#">GALERIA DE FOTOS</a>
 										<ul>
-											<li><a href="portfolio-grid.html">FOTOS HELADOS</a></li>
+											<li><a href="portfolio-grid.php">FOTOS HELADOS</a></li>
 										</ul>
 									</li>
 								</ul>
@@ -122,7 +122,7 @@
 							<li>
 								<a href="#">UBICANOS</a>
 								<ul>
-									<li><a href="template-contact.html">CONTACTO</a></li>
+									<li><a href="template-contact.php">CONTACTO</a></li>
 								</ul>
 							</li>
 						</ul>

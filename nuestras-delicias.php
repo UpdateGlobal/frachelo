@@ -4,7 +4,8 @@
 	<!-- Meta -->
 		<meta charset="UTF-8" />
 		<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
-		<meta name="description" content="TrueStory is a powerful and at the same time light-weight flexible HTML5 website. TrueStory is responsive and looks great on retina displays and other high resolution screens. It forms an awesome experience for your visitors and offers a bunch of new and exciting features." />
+		<meta name="description" content="" />
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 		
 	<!-- Favicon -->
 		<link rel="shortcut icon" href="images/favicon.ico" />
@@ -19,16 +20,11 @@
 		<link href="plugins/colorbox/skin.css" rel="stylesheet" />
 		<link href="plugins/mediaelement/mediaelementplayer.min.css" rel="stylesheet" />
 		<link href="plugins/mediaelement/skin.css" rel="stylesheet" />
-		
-	<!-- IE -->
-		<!--[if lt IE 9]>
-			<script src="scripts/ie/html5.js"></script>
-			<link href="styles/ie/ie.css" rel="stylesheet" />
-		<![endif]-->
+	
 		
 	<!-- Title -->
-		<title>Frachelo - Nuestras Delicias</title>
-	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" /></head>
+		<title>Frelatos - Nuestras Delicias</title>
+	</head>
 	
 	<body>
 	<!-- MAIN WRAP -->
@@ -42,10 +38,8 @@
 							<img data-pos="0.5" src="https://img.elcomercio.pe/files/ec_article_multimedia_gallery/uploads/2017/03/21/58d192497665a.jpeg" alt="Image" />
 						</a>
 						<div class="fullscreen-caption">
-							<center><h1>FRACHELOS</h1></center>
-							<!-- <p>
-							 Lorem Ipsum es simplemente el texto de relleno de las imprentas y archivos de texto. Lorem Ipsum ha sido el texto de relleno estándar de las industrias desde el año 1500
-							</p> -->
+							<center><h1>FRELATOS</h1></center>
+							
 							
 						</div>
 					</li>
@@ -56,9 +50,7 @@
 						</a>
 						<div class="fullscreen-caption">
 							<center><h2>DOlCHEFRES</h2></center>
-							<!-- <p>
-							 Lorem Ipsum es simplemente el texto de relleno de las imprentas y archivos de texto. Lorem Ipsum ha sido el texto de relleno estándar de las industrias desde el año 1500
-							</p> -->
+							
 						
 						</div>
 					</li>
@@ -69,9 +61,7 @@
 						</a>
 						<div class="fullscreen-caption">
 							<center><h2>FREXI</h2></center>
-						    <!--<p>
-							  Lorem Ipsum es simplemente el texto de relleno de las imprentas y archivos de texto. Lorem Ipsum ha sido el texto de relleno estándar de las industrias desde el año 1500
-							</p>-->
+						   
 						</div>
 					</li>
 					
@@ -81,9 +71,7 @@
 						</a>
 						<div class="fullscreen-caption">
 							<center><h2>FRUTADOS</h2></center>
-						    <!-- <p>
-						      Lorem Ipsum es simplemente el texto de relleno de las imprentas y archivos de texto. Lorem Ipsum ha sido el texto de relleno estándar de las industrias desde el año 1500
-							</p> -->
+						   
 						</div>
 					</li>
 					
@@ -93,9 +81,7 @@
 						</a>
 						<div class="fullscreen-caption">
 							<center><h2>CHIRIFRUITS</h2></center>
-							<!-- <p>
-							  Lorem Ipsum es simplemente el texto de relleno de las imprentas y archivos de texto. Lorem Ipsum ha sido el texto de relleno estándar de las industrias desde el año 1500
-							</p> -->
+							
 						</div>
 					</li>
 				</ul>
@@ -109,8 +95,8 @@
 			<div id="dock">
 				 <header id="header">
 					<div id="site-logo">
-						<a href="index.html">
-							<img src="images/logo.png" alt="Site Logo" />
+						<a href="index.php">
+							<img src="images/logo.png" alt="Frelatos logo" />
 						</a>
 					</div><!-- #site-logo -->
 			
@@ -118,9 +104,9 @@
 						<nav id="main-nav">
 						<ul>
 							<li class="current">
-								<a href="index.html">HISTORIA</a>
+								<a href="index.php">HISTORIA</a>
 								<ul>
-									<li><a href="video-demostrativo.php">VIDEO DEMOSTRATIVO</a></li>
+									<li><a href="video-demostrativo.php">QUIÉNES SOMOS</a></li>
 								</ul>
 							</li>
 							<li>
@@ -145,11 +131,7 @@
 				 </header><!-- #header -->
 				 
 				 <footer id="footer">
-					<!-- <div id="copyright">
-						<p>FRACHELOS</p>
-						<p>es una heladeria de estilo tailandes que se venden aqui en Peru</p>
-					</div> --><!-- #copyright -->
-					
+										
 					<div id="social-media">
 						<p>Siguenos en</p>
 						<a href="https://twitter.com/login?lang=es" target="_blank" class="icon twitter">Twitter</a>
@@ -164,13 +146,13 @@
 					<span class="inactive-text">aparecer barra de navegacion</span>
 				</span></span></a>
 				
-				 <a href="#" id="page-top-link"><span><span>Back to top</span></span></a>
+				 <a href="#" id="page-top-link"><span><span>Ir Arriba</span></span></a>
 			</div><!-- #dock -->
 
 			<!-- FIN NAV - FOOTER -->
 			
 			<div id="preloader">
-				<span><span>Loading</span></span>
+				<span><span>Frelatos</span></span>
 			</div><!-- #preloader -->
 			
 		</div><!-- #main-wrap -->
@@ -188,9 +170,6 @@
 		<script src="plugins/mediaelement/mediaelement-and-player.min.js"></script>
 		<script src="plugins/social/jquery.social.js"></script>
 		
-	<!-- IE -->
-		<!--[if lt IE 9]>
-			<script src="scripts/ie/ie.js" type="text/javascript"></script>
-		<![endif]-->
+
 	</body>
 </html>

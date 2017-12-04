@@ -92,7 +92,7 @@
 		<div id="dock">
 				 <header id="header">
 					<div id="site-logo">
-						<a href="index.html">
+						<a href="index.php">
 							<img src="images/logo.png" alt="Site Logo" />
 						</a>
 					</div><!-- #site-logo -->
@@ -101,9 +101,9 @@
 						<nav id="main-nav">
 						<ul>
 							<li class="current">
-								<a href="index.html">HISTORIA</a>
+								<a href="index.php">HISTORIA</a>
 								<ul>
-									<li><a href="video-demostrativo.html">VIDEO DEMOSTRATIVO</a></li>
+									<li><a href="video-demostrativo.php">VIDEO DEMOSTRATIVO</a></li>
 								</ul>
 							</li>
 							<li>
@@ -111,7 +111,7 @@
 								<ul>
 									<li>
 										<li>
-										<a href="nuestra-carta.html">NUESTRA CARTA</a>
+										<a href="nuestra-carta.php">NUESTRA CARTA</a>
 									</li>
 									</li>
 							
@@ -120,7 +120,7 @@
 							<li>
 								<a href="">UBÍCANOS</a>
 								<ul>
-									<li><a href="contacto.html">CONTACTO</a></li>
+									<li><a href="contacto.php">CONTACTO</a></li>
 								</ul>
 							</li>
 						</ul>

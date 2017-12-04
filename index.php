@@ -37,9 +37,9 @@
 				
 			<div id="page" class="fullscreen no-scroll">
 				
-				      <a href="#">
-							<!--<img data-pos="0.35" src="images/helados.png" alt="Image" />-->
-						</a>
+				    
+							<img  src="images/helados.png" alt="Image" />
+					
 				     	<div class="fullscreen-caption">
 				     		      <!-- #social-media -->
 
@@ -74,9 +74,7 @@
 						</div>
 			</div><!-- #page -->
 			
-			<div id="background">
-				
-			</div><!-- #background -->
+			<!-- #background -->
 			
 			<!--<div id="dock">
 				 <header id="header">
@@ -123,8 +121,8 @@
 								</ul>
 							</li>
 						</ul>
-					</nav><!-- #main-nav -->
-				 </header><!-- #header -->
+					</nav><!-- #main-nav 
+				 </header> #header -->
 				 
 <!-- 				 <footer id="footer">
 					<div id="copyright">

@@ -21,7 +21,11 @@
 		<link href="plugins/mediaelement/mediaelementplayer.min.css" rel="stylesheet" />
 		<link href="plugins/mediaelement/skin.css" rel="stylesheet" />
 	
-		
+		  <meta name="viewport" content="width=device-width">
+
+ <link rel="stylesheet" href="css/bootstrap.css" type="text/css">
+    <script src="https://www.freakspot.net/theme/js/jquery-3.1.1.min.js"></script>
+    <script src="js/bootstrap.js"></script>
 	<!-- Title -->
 		<title>Frelatos - Nuestras Delicias</title>
 	</head>
@@ -101,33 +105,36 @@
 					</div><!-- #site-logo -->
 			
 
-						<nav id="main-nav">
-						<ul>
-							<li class="current">
-								<a href="index.php">HISTORIA</a>
-								<ul>
-									<li><a href="video-demostrativo.php">QUIÉNES SOMOS</a></li>
-								</ul>
-							</li>
-							<li>
-								<a href="#">MÁS SALUDABLE</a>
-								<ul>
-									<li>
-										<li>
-										<a href="nuestra-carta.php">NUESTRA CARTA</a>
-									</li>
-									</li>
-							
-								</ul>
-							</li>
-							<li>
-								<a href="">UBÍCANOS</a>
-								<ul>
-									<li><a href="contacto.php">CONTACTO</a></li>
-								</ul>
-							</li>
-						</ul>
-					</nav><!-- #main-nav -->
+						<nav class="navbar navbar-default navbar-fixed-top">
+      <div class="container">
+        <div class="navbar-header">
+          <a href="https://www.freakspot.net/" class="navbar-brand">Freak Spot</a>
+          <button aria-expanded="false" class="navbar-toggle" type="button" data-toggle="collapse" data-target="#navbar-main">
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </button>
+        </div>
+        <div class="navbar-collapse collapse" id="navbar-main">
+          <ul class="nav navbar-nav">
+            <li>
+              <a href="#">Otra sección</a>
+            </li>
+            <li>
+              <a href="https://es.wikipedia.org/wiki/Wikipedia:Portada">Wikipedia</a>
+            </li>
+            <li class="dropdown">
+              <a class="dropdown-toggle" data-toggle="dropdown" href="#" id="themes">Software libre <span class="caret"></span></a>
+              <ul class="dropdown-menu" aria-labelledby="themes">
+                <li><a href="https://www.fsf.org/">FSF</a></li>
+                <li><a href="https://www.gnu.org/">GNU</a></li>
+                <li><a href="https://peers.community/">Peers Community</a></li>
+              </ul>
+            </li>
+          </ul>
+        </div>
+      </div>
+    </nav>
 				 </header><!-- #header -->
 				 
 				 <footer id="footer">

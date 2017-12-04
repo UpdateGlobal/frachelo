@@ -2,8 +2,22 @@
 /*	BASE
 /*--TEXTO AL CENTRO DE LA IMAGEN EN LA PESTAÑA HISTORIA---*/
 /*--NUEVO ESTILO DE BARRA DE REDES SOCIALES---*/
+/* ICONOS UEVOS PARA UNA BARRA SOCIAL DEL INDEX*/
+.isq{
+	margin-right: 400px;
+}
+
+.abarca{
+	height: 100%;
+	width: 100%;
+}
+
+*{ç
+background: #338800
+}
+/* ACA TERMINA*/
 body{
-background:#f5f5f5;
+background:#445588;
 } 
 
 h2
@@ -17,7 +31,7 @@ text-shadow:0px 2px 2px #c1c1c1;
 #socialicons
 {
 width:75%;
-margin:0 auto;
+c
 overflow:auto;
 }
   
@@ -1065,7 +1079,7 @@ height: 80px;
 margin-top: -40px;
 margin-left: -40px;
 z-index: 1;
-background: url(../images/loading_small.gif) no-repeat center 15px #000;
+background: url(../images/helados.png) no-repeat center 15px #000;
 -moz-border-radius: 99px;
 -webkit-border-radius: 99px;
 border-radius: 99px;
@@ -1343,6 +1357,12 @@ left: 0;
 width: 999%;
 height: 999%;
 z-index: -1;
+background-image:url(../images/helados.png);
+background-size: cover;
+background-attachment: fixed;
+background-position: center;
+
+
 }
 
 #background > *{
@@ -3651,7 +3671,9 @@ background: #e9e9e9;
 	}
 	
 	#page.fullscreen{
-	background: #fff;
+	background: red;
+	background-image: url(.../images/helados.png);
+	
 	}
 	
 	#page.layout-right ,

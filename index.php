@@ -32,37 +32,33 @@
 	
 	<body>
 	<!-- MAIN WRAP -->
+
 		<div id="main-wrap">
 				
 			<div id="page" class="fullscreen no-scroll">
 				
 				      <a href="#">
-							<img data-pos="0.35" src="images/principal.jpg" alt="Image" />
+							<!--<img data-pos="0.35" src="images/helados.png" alt="Image" />-->
 						</a>
 				     	<div class="fullscreen-caption">
 				     		      <!-- #social-media -->
-				     	     					        
-<div id="socialicons">
-<div class="socialicon">
-<div class="dribbblecolor socialiconcircle1"></div>
-<div class="socialiconcircle2">
-<a href="https://twitter.com/login?lang=es" target="_blank" class="fa icons icon twitter dribbble"></a>
-</div> 
-</div>
-<div class="socialicon">
-<div class="facebookcolor socialiconcircle1"></div>
-<div class="socialiconcircle3">
-<a href="https://www.facebook.com/" target="_blank" class="fa icons icon facebook facebook"></a>
-</div> 
-</div>                
-<div class="socialicon">
-<div class="youtubecolor socialiconcircle1"></div>
-<div class="socialiconcircle4">
-<a href="https://www.youtube.com/" target="_blank" class="fa icons icon youtube youtube"></a>
-</div> 
-</div>      
-</div>
-				     	   <div class="izquierda">
+
+ 	   <div class="izquierda">
+ 	   	 <footer id="footer">
+										
+					<div id="social-media">
+						<div class="row">
+							<div class="col-md-3">
+								</div>
+								<div class="col-md-3">
+						<p class="isq">Siguenos en</p>
+						<a href="https://twitter.com/login?lang=es" target="_blank" class="icon twitter">Twitter</a>
+						<a href="https://www.facebook.com/" target="_blank" class="icon facebook">Facebook</a>
+						<a href="https://www.youtube.com/" target="_blank" class="icon youtube">youtube</a>
+						</div>
+					   </div>
+					</div><!-- #social-media -->
+				 </footer><!-- #footer -->	
 				     	       
 							     <img src="images/principal.png" alt="">
 					
@@ -79,6 +75,7 @@
 			</div><!-- #page -->
 			
 			<div id="background">
+				
 			</div><!-- #background -->
 			
 			<!--<div id="dock">

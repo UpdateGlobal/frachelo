@@ -36,15 +36,12 @@
 		<div id="main-wrap">
 				
 			<div id="page" class="fullscreen no-scroll">
-				
-				    
-							<img  src="images/helados.png" alt="Image" />
+			
 					
 				     	<div class="fullscreen-caption">
 				     		      <!-- #social-media -->
-
- 	   <div class="izquierda">
- 	   	 <footer id="footer">
+		<div class="derecha">	
+		<div id="navsocial">
 										
 					<div id="social-media">
 						<div class="row">
@@ -58,7 +55,11 @@
 						</div>
 					   </div>
 					</div><!-- #social-media -->
-				 </footer><!-- #footer -->	
+				 </div><!-- #navsocial -->
+	</div>	
+
+ 	   <div class="izquierda">
+ 	   	 
 				     	       
 							     <img src="images/principal.png" alt="">
 					

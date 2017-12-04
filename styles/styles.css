@@ -213,8 +213,10 @@ body{
 position: relative;
 font: normal normal 13px/1.6em 'Open Sans', Arial, san-serif;
 color: #666;
-background: url(../images/background.jpg) repeat top left #fff;
-
+background: url(../images/helados.png) repeat top left #fff;
+background-size: cover;
+background-attachment: fixed;
+background-position: center center;
 visibility: hidden;
 }
 
@@ -641,6 +643,19 @@ background: url(../images/texture.png) repeat 0 0 #000;
 		box-shadow: 0 0 20px rgba(0,0,0,0.4);
 		}
 
+	/*-------------------------------------------------------------------------------------*/
+	/* Nav Social
+	/*-------------------------------------------------------------------------------------*/
+	
+	#navsocial{
+		display: block;
+		width: 100%;
+		height: 50px;
+		font: normal normal 10px/16px 'Open Sans Semibold', Arial, sans-serif;
+		text-transform: uppercase;
+		color: white;
+		border-top: 1px solid #111;
+	}
 	/*-------------------------------------------------------------------------------------*/
 	/*	FOOTER
 	/*-------------------------------------------------------------------------------------*/
@@ -1360,7 +1375,7 @@ z-index: -1;
 
 background-size: cover;
 background-attachment: fixed;
-background-position: center;
+background-position: center center;
 
 
 }
@@ -2844,6 +2859,11 @@ left: 750px;
 	right: 750px;
 }
 
+.derecha{
+	position: absolute;
+	left: 550px;
+}
+
 .fullscreen-caption > *{
 margin-left: 0;
 padding-left: 30px;
@@ -3672,8 +3692,10 @@ background: #e9e9e9;
 	
 	#page.fullscreen{
 	background: red;
-	background-image: url(../images/helados.png);
-	
+	background-image: url(../images/helados.png) !important;
+	background-size: cover;
+	background-attachment: fixed;
+	background-position: center;
 	}
 	
 	#page.layout-right ,

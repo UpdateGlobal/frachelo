@@ -36,29 +36,23 @@
 		<div id="main-wrap">
 				
 			<div id="page" class="fullscreen no-scroll">
-				
-				    
-							<img  src="images/helados.png" alt="Image" />
+			
 					
 				     	<div class="fullscreen-caption">
 				     		      <!-- #social-media -->
+		<div class="derecha">	
+		<div id="navsocial">
+		<div id="social-med">
+			<p>Siguenos en</p>
+			<a href="https://twitter.com/login?lang=es" target="_blank" class="icon twitter">Twitter</a>
+			<a href="https://www.facebook.com/" target="_blank" class="icon facebook">Facebook</a>
+			<a href="https://www.youtube.com/" target="_blank" class="icon youtube">youtube</a>
+		</div><!-- #social-media -->
+		</div><!-- #navsocial -->
+		</div>	
 
  	   <div class="izquierda">
- 	   	 <footer id="footer">
-										
-					<div id="social-media">
-						<div class="row">
-							<div class="col-md-3">
-								</div>
-								<div class="col-md-3">
-						<p class="isq">Siguenos en</p>
-						<a href="https://twitter.com/login?lang=es" target="_blank" class="icon twitter">Twitter</a>
-						<a href="https://www.facebook.com/" target="_blank" class="icon facebook">Facebook</a>
-						<a href="https://www.youtube.com/" target="_blank" class="icon youtube">youtube</a>
-						</div>
-					   </div>
-					</div><!-- #social-media -->
-				 </footer><!-- #footer -->	
+ 	   	 
 				     	       
 							     <img src="images/principal.png" alt="">
 					

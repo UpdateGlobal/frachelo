@@ -23,7 +23,13 @@
 	
 		  <meta name="viewport" content="width=device-width">
 
+<<<<<<< HEAD
 
+=======
+ <link rel="stylesheet" href="plugins/bootstrap/css/bootstrap.css" type="text/css">
+    <script src="https://www.freakspot.net/theme/js/jquery-3.1.1.min.js"></script>
+    <script src="plugins/bootstrap/js/bootstrap.js"></script>
+>>>>>>> ac3342789ca715342787845e3a403460cee3646c
 	<!-- Title -->
 		<title>Frelatos - Nuestras Delicias</title>
 	</head>
@@ -101,38 +107,6 @@
 							<img src="images/logo.png" alt="Frelatos logo" />
 						</a>
 					</div><!-- #site-logo -->
-			
-
-						<nav class="navbar navbar-default navbar-fixed-top">
-      <div class="container">
-        <div class="navbar-header">
-          <a href="https://www.freakspot.net/" class="navbar-brand">Freak Spot</a>
-          <button aria-expanded="false" class="navbar-toggle" type="button" data-toggle="collapse" data-target="#navbar-main">
-            <span class="icon-bar"></span>
-            <span class="icon-bar"></span>
-            <span class="icon-bar"></span>
-          </button>
-        </div>
-        <div class="navbar-collapse collapse" id="navbar-main">
-          <ul class="nav navbar-nav">
-            <li>
-              <a href="#">Otra sección</a>
-            </li>
-            <li>
-              <a href="https://es.wikipedia.org/wiki/Wikipedia:Portada">Wikipedia</a>
-            </li>
-            <li class="dropdown">
-              <a class="dropdown-toggle" data-toggle="dropdown" href="#" id="themes">Software libre <span class="caret"></span></a>
-              <ul class="dropdown-menu" aria-labelledby="themes">
-                <li><a href="https://www.fsf.org/">FSF</a></li>
-                <li><a href="https://www.gnu.org/">GNU</a></li>
-                <li><a href="https://peers.community/">Peers Community</a></li>
-              </ul>
-            </li>
-          </ul>
-        </div>
-      </div>
-    </nav>
 				 </header><!-- #header -->
 				 
 				 <footer id="footer">

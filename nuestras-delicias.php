@@ -23,9 +23,7 @@
 	
 		  <meta name="viewport" content="width=device-width">
 
- <link rel="stylesheet" href="css/bootstrap.css" type="text/css">
-    <script src="https://www.freakspot.net/theme/js/jquery-3.1.1.min.js"></script>
-    <script src="js/bootstrap.js"></script>
+
 	<!-- Title -->
 		<title>Frelatos - Nuestras Delicias</title>
 	</head>

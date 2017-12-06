@@ -1744,7 +1744,7 @@
                     this.header.append(this.logo);
                     this.header.append(this.nav);
                     this.nav.append(this.select);
-                    $("#main-wrap").prepend(this.header);
+                    $("#main-wrap1").prepend(this.header);
                     this.select.change(function () {
                         window.location = this.value
                     });
@@ -2202,3 +2202,17 @@ $(window).bind("load", function () {
     };
     template.preloader.hide()
 })
+
+$(document).ready(function() {
+    $(document).delegate('.open', 'click', function(event){
+        $(this).addClass('oppenned');
+        event.stopPropagation();
+    })
+    $(document).delegate('body', 'click', function(event) {
+        $('.open').removeClass('oppenned');
+    })
+    $(document).delegate('.cls', 'click', function(event){
+        $('.open').removeClass('oppenned');
+        event.stopPropagation();
+    });
+});

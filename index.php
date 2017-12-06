@@ -23,12 +23,13 @@
 	<link href="plugins/mediaelement/skin.css" rel="stylesheet" />
 
 	<!-- IE -->
-	<!--[if lt IE 9]>
+	<!--[if lt IE 9]-->
 			<script src="scripts/ie/html5.js"></script>
 			<link href="styles/ie/ie.css" rel="stylesheet" />
-		<![endif]-->
+		<!--[endif]-->
 
 	<!-- Title -->
+	
 	<title> FRELATOS </title>
 	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 </head>

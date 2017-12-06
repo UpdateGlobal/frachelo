@@ -45,7 +45,7 @@
 					</a>
 					<div class="fullscreen-caption">
 						<center>
-							<h1 style="font-family:Rimouski">FRELATOS</h1>
+							<h1 style="font-family:Rimouski">HELADO TAILANDES</h1>
 						</center>
 					</div>
 				</li>
@@ -56,7 +56,7 @@
 					</a>
 					<div class="fullscreen-caption">
 						<center>
-							<h2 style="font-family:Rimouski">DOlCHEFRES</h2>
+							<h2 style="font-family:Rimouski">CONAZO DE FRESAS</h2>
 						</center>
 					</div>
 				</li>
@@ -67,7 +67,7 @@
 					</a>
 					<div class="fullscreen-caption">
 						<center>
-							<h2 style="font-family:Rimouski">FREXI</h2>
+							<h2 style="font-family:Rimouski">FRESAS ENCANTADAS</h2>
 						</center>
 					</div>
 				</li>
@@ -77,7 +77,7 @@
 					</a>
 					<div class="fullscreen-caption">
 						<center style="margin:auto">
-							<h2 style="font-family:Rimouski">FRUTADOS</h2>
+							<h2 style="font-family:Rimouski">HOT CREAM CHOCOLATE</h2>
 						</center>
 					</div>
 				</li>
@@ -88,7 +88,7 @@
 					</a>
 					<div class="fullscreen-caption">
 						<center>
-							<h2 style="font-family:Rimouski">CHIRIFRUITS</h2>
+							<h2 style="font-family:Rimouski">ILUSIÓN DE HELADO</h2>
 						</center>
 
 					</div>

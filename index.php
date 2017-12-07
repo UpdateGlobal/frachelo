@@ -47,7 +47,6 @@
 					<p style>Siguenos en</p>
 					<a href="https://twitter.com/login?lang=es" target="_blank" class="icon twitter">Twitter</a>
 					<a href="https://www.facebook.com/" target="_blank" class="icon facebook">Facebook</a>
-					<a href="https://www.youtube.com/" target="_blank" class="icon youtube">youtube</a>
 				</div>
 				<!-- #social-media -->
 			</div>

@@ -44,7 +44,7 @@
 						<img data-pos="0.5" src="images/fre1.jpg" alt="Image" />
 					</a>
 					<div class="fullscreen-caption">
-						<center>
+						<center style="padding-left: 0px;">
 							<h1 style="font-family:Rimouski">HELADO TAILANDES</h1>
 						</center>
 					</div>
@@ -55,7 +55,7 @@
 						<img data-pos="0.5" src="images/fre2.jpg" alt="Image" />
 					</a>
 					<div class="fullscreen-caption">
-						<center>
+						<center style="padding-left: 0px;">
 							<h2 style="font-family:Rimouski">CONAZO DE FRESAS</h2>
 						</center>
 					</div>
@@ -66,7 +66,7 @@
 						<img data-pos="0.5" src="images/fre3.jpg" alt="Image" />
 					</a>
 					<div class="fullscreen-caption">
-						<center>
+						<center style="padding-left: 0px;">
 							<h2 style="font-family:Rimouski">FRESAS ENCANTADAS</h2>
 						</center>
 					</div>
@@ -76,7 +76,7 @@
 						<img data-pos="0.5" src="images/fre4.jpg" alt="Image" />
 					</a>
 					<div class="fullscreen-caption">
-						<center style="margin:auto">
+						<center style="padding-left: 0px;">
 							<h2 style="font-family:Rimouski">HOT CREAM CHOCOLATE</h2>
 						</center>
 					</div>
@@ -87,7 +87,7 @@
 						<img data-pos="0.5" src="images/fre5.jpg" alt="Image" />
 					</a>
 					<div class="fullscreen-caption">
-						<center>
+						<center style="padding-left: 0px;">
 							<h2 style="font-family:Rimouski">ILUSIÓN DE HELADO</h2>
 						</center>
 
@@ -166,19 +166,19 @@
 					<span>
 						<ul class="sub-menu ">
 							<li>
-								<a href="#about" title="HISTORIA">Historia</a>
+								<a href="#about" title="Historia">Historia</a>
 							</li>
 							<li>
-								<a href="#skills" title="VIDEO">Video Demostrativo</a>
+								<a href="#skills" title="Video Demostrativo">Video Demostrativo</a>
 							</li>
 							<li>
-								<a href="#jobs" title="NCARTA">Nuestra Carta</a>
+								<a href="nuestra-carta.php" title="Nuestra Carta">Nuestra Carta</a>
 							</li>
 							<li>
-								<a href="#contact" title="FHELADOS">Fotos Helados</a>
+								<a href="#contact" title="Fotos Helados">Fotos Helados</a>
 							</li>
 							<li>
-								<a href="#contact" title="UBICANOS">Ubícanos</a>
+								<a href="#contact" title="Ubícanos">Ubícanos</a>
 							</li>
 						</ul>
 					</span>
@@ -191,8 +191,6 @@
 					<p>Siguenos en</p>
 					<a href="https://twitter.com/login?lang=es" target="_blank" class="icon twitter">Twitter</a>
 					<a href="https://www.facebook.com/" target="_blank" class="icon facebook">Facebook</a>
-					<a href="https://www.youtube.com/" target="_blank" class="icon youtube">youtube</a>
-
 				</div>
 				<!-- #social-media -->
 			</footer>

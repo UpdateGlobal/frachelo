@@ -76,33 +76,22 @@
 					</div><!-- #site-logo -->
 			
 
-						<nav id="main-nav">
-						<ul>
-							<li class="current">
-								<a href="index.html">HISTORIA</a>
-								<ul>
-									<li><a href="video-demostrativo.html">VIDEO DEMOSTRATIVO</a></li>
-								</ul>
-							</li>
-							<li>
-								<a href="#">MÁS SALUDABLE</a>
-								<ul>
-									<li>
-										<li>
-										<a href="nuestra-carta.html">NUESTRA CARTA</a>
-									</li>
-									</li>
-							
-								</ul>
-							</li>
-							<li>
-								<a href="">UBÍCANOS</a>
-								<ul>
-									<li><a href="contacto.html">CONTACTO</a></li>
-								</ul>
-							</li>
-						</ul>
-					</nav><!-- #main-nav -->
+					<nav id="main-nav">
+					<ul>
+						<li class="current">
+							<a href="nosotros.php">Nosotros</a>
+						</li>
+						<li>
+							<a href="nuestra-propuesta.php">Nuestra Propuesta</a>
+						</li>
+						<li>
+							<a href="nuestra-carta.php">Nuestra Carta</a>
+						</li>
+						<li>
+							<a href="contacto.php">Ubícanos</a>
+						</li>
+					</ul>
+				</nav><!-- #main-nav -->
 				 </header><!-- #header -->
 				 
 				 <footer id="footer">
@@ -113,10 +102,8 @@
 					
 					<div id="social-media">
 						<p>Siguenos en</p>
-						<a href="https://twitter.com/login?lang=es" target="_blank" class="icon twitter">Twitter</a>
 						<a href="https://www.facebook.com/" target="_blank" class="icon facebook">Facebook</a>
-						<a href="https://www.youtube.com/" target="_blank" class="icon youtube">youtube</a>
-					
+				
 					</div><!-- #social-media -->
 				 </footer><!-- #footer -->
 				 

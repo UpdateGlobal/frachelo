@@ -136,7 +136,6 @@
 
 			<div id="social-media">
 				<p>Siguenos en</p>
-				<a href="https://twitter.com/login?lang=es" target="_blank" class="icon twitter">Twitter</a>
 				<a href="https://www.facebook.com/" target="_blank" class="icon facebook">Facebook</a>
 			</div>
 			<!-- #social-media -->

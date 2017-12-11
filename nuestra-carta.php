@@ -37,7 +37,7 @@
 	<!-- MAIN WRAP -->
 	<div id="main-wrap">
 
-		<div id="page" class="layout-center" style="visibility: visible;padding-bottom: 166px;opacity: 1;padding-right: 0px;padding-left: 0px;">
+		<div id="page" class="layout-center" style="visibility: visible; opacity: 1;padding-right: 0px;padding-left: 0px;">
 			<img id="img1" src="images/cap1.png" alt="">
 
 			<header id="page-head" style="background-color: #eb1e5d;border-bottom-width: 0px;">
@@ -98,19 +98,6 @@
 			<div id="page-content">
 				<div id="content">
 
-					<!-- <div class="portfolio-filters">
-							<nav class="filterable-nav" data-id="portfolio">
-								<span>Show </span>
-								<ul>
-									<li>All</li>
-								</ul>
-							</nav>
-							
-							<div class="filterable-search">
-								<input type="text" class="has-icon" data-prompt="Or search ..." data-id="portfolio" /> <i class="search icon"></i>
-							</div>
-						</div> -->
-
 					<ul class="portfolio filterable entries classic-1" data-id="portfolio">
 						<li>
 							<article class="entry">
@@ -129,7 +116,6 @@
 										</a>
 									</h2>
 									<!-- .entry-title -->
-
 									<div class="entry-content">
 										<ul class="menu-carta4">
 											<li>
@@ -164,7 +150,7 @@
 							</article>
 						</li>
 						<header style="background-color: white" id="page-head">
-							<h1 style="font-family:Rimouski;font-size: 2em;color: #eb1e5d;">En La Presentación Que Desees
+							<h1 style="font-family:Rimouski;font-size: 2em;color: #eb1e5d;padding-bottom: 20px;">En La Presentación Que Desees
 								<small></small>
 							</h1>
 							<div class="block2">
@@ -180,12 +166,33 @@
 								<div class="inner">
 									<img src="images/pre4.png" alt="">
 								</div>
-
 							</div>
 						</header>
-						<li>
 
-							<article class="entry">
+						<body>
+							<div class="open">
+								<span class="cls"></span>
+								<span>
+									<ul class="sub-menu ">
+										<li>
+											<a href="nosotros.php" title="Nosotros">Nosotros</a>
+										</li>
+										<li>
+											<a href="nuestra-propuesta.php" title="Nuestra Propuesta">Nuestra Propuesta</a>
+										</li>
+										<li>
+											<a href="nuestra-carta.php" title="Nuestra Carta">Nuestra Carta</a>
+										</li>
+										<li>
+											<a href="contacto.php" title="Ubícanos">Ubícanos</a>
+										</li>
+									</ul>
+								</span>
+								<span class="cls"></span>
+							</div>
+						</body>
+						<li>
+							<article class="entry1">
 								<header id="page-head" style="background-color: #eb1e5d;border-bottom-width: 0px;">
 									<h1 style="font-family:Rimouski">Postres
 										<small></small>
@@ -194,8 +201,7 @@
 								<div class="entry-featured">
 									<a class="colorbox overlay" title="Image opens in ColorBox" data-title="HELADOS DE VAINILLA<small>Image Opens in ColorBox</small>">
 										<div class="color-overlay"></div>
-										<img src="images/cap3.png" alt="Image"
-										/>
+										<img src="images/cap3.png" alt="Image" />
 									</a>
 								</div>
 								<!-- .entry-featured -->
@@ -236,9 +242,24 @@
 							</header>
 							<img id="img1" src="images/cap4.png" alt="">
 							<!-- .entry-body -->
+							<header style="background-color: white" id="page-head">
+								<h1 style="font-family:Rimouski;font-size: 2em;color: #eb1e5d;padding-bottom: 20px;">En La Presentación Que Desees
+									<small></small>
+								</h1>
+								<div class="block2">
+									<div class="inner">
+										<img src="images/pre5.png" alt="">
+									</div>
+									<div class="inner">
+										<img src="images/pre6.png" alt="">
+									</div>
+									<div class="inner">
+										<img src="images/pre7.png" alt="">
+									</div>
+								</div>
+							</header>
 						</article>
 					</ul>
-
 				</div>
 				<!-- #content -->
 			</div>
@@ -277,33 +298,19 @@
 					</a>
 				</div>
 				<!-- #site-logo -->
-
-
 				<nav id="main-nav">
 					<ul>
 						<li class="current">
-							<a href="#">HISTORIA</a>
-							<ul>
-								<li>
-									<a href="#">NOSOTROS</a>
-								</li>
-							</ul>
+							<a href="nosotros.php">Nosotros</a>
 						</li>
 						<li>
-							<a href="#">MÁS SALUDABLE</a>
-							<ul>
-								<li>
-									<a href="nuestra-carta.php">NUESTRA CARTA</a>
-								</li>
-							</ul>
+							<a href="nuestra-propuesta.php">Nuestra Propuesta</a>
 						</li>
 						<li>
-							<a href="#">UBÍCANOS</a>
-							<ul>
-								<li>
-									<a href="contacto.php">CONTACTO</a>
-								</li>
-							</ul>
+							<a href="nuestra-carta.php">Nuestra Carta</a>
+						</li>
+						<li>
+							<a href="contacto.php">Ubícanos</a>
 						</li>
 					</ul>
 				</nav>
@@ -322,8 +329,6 @@
 					<p>Siguenos en</p>
 					<a href="https://twitter.com/login?lang=es" target="_blank" class="icon twitter">Twitter</a>
 					<a href="https://www.facebook.com/" target="_blank" class="icon facebook">Facebook</a>
-					<a href="https://www.youtube.com/" target="_blank" class="icon youtube">youtube</a>
-
 				</div>
 				<!-- #social-media -->
 			</footer>

@@ -1,12 +1,12 @@
 ﻿<!DOCTYPE html>
-<html lang="es">
+<html lang="en">
 
 <head>
 	<!-- Meta -->
 	<meta charset="UTF-8" />
 	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
-	<meta name="description" content="" />
-	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<meta name="description" content="TrueStory is a powerful and at the same time light-weight flexible HTML5 website. TrueStory is responsive and looks great on retina displays and other high resolution screens. It forms an awesome experience for your visitors and offers a bunch of new and exciting features."
+	/>
 
 	<!-- Favicon -->
 	<link rel="shortcut icon" href="images/favicon.ico" />
@@ -22,82 +22,58 @@
 	<link href="plugins/mediaelement/mediaelementplayer.min.css" rel="stylesheet" />
 	<link href="plugins/mediaelement/skin.css" rel="stylesheet" />
 
-	<meta name="viewport" content="width=device-width">
+	<!-- IE -->
+	<!--[if lt IE 9]>
+			<script src="scripts/ie/html5.js"></script>
+			<link href="styles/ie/ie.css" rel="stylesheet" />
+		<![endif]-->
 
-	<link rel="stylesheet" href="plugins/bootstrap/css/bootstrap.css" type="text/css">
-	<script src="https://www.freakspot.net/theme/js/jquery-3.1.1.min.js"></script>
-	<script src="plugins/bootstrap/js/bootstrap.js"></script>
 	<!-- Title -->
-	<title>Frelatos - Nuestras Delicias</title>
+	<title>Nostros</title>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 </head>
 
 <body>
 	<!-- MAIN WRAP -->
 	<div id="main-wrap">
 
+		<div id="page" class="layout-center page-contact">
+			<header style="background-color: #eb1e5d" id="page-head">
+				<h1>Nosotros
+					<small></small>
+				</h1>
+			</header>
+			<!-- #page-head -->
 
-		<div id="page" class="fullscreen no-scroll">
-
-			<ul id="home-accordion">
-				<li>
-					<a href="#">
-						<img data-pos="0.5" src="images/fre1.jpg" alt="Image" />
-					</a>
-					<div style="padding-left: 10px;" class="fullscreen-caption">
-						<center style="padding-left: 0px;">
-							<h1 style="font-family:Rimouski">HELADO TAILANDES</h1>
-						</center>
+			<div id="page-content" style="padding-right: 0px;padding-left: 0px;">
+				<div id="content">
+					<div id="page" class="layout-center" style="visibility: visible; opacity: 1;padding-right: 0px;padding-left: 0px;">
+						<img id="img1" src="images/cap1.png" alt="">
 					</div>
-				</li>
 
-				<li>
-					<a href="#">
-						<img data-pos="0.5" src="images/fre2.jpg" alt="Image" />
-					</a>
-					<div style="padding-left: 10px;" class="fullscreen-caption">
-						<center style="padding-left: 0px;">
-							<h2 style="font-family:Rimouski">CONAZO DE FRESAS</h2>
-						</center>
+					<div style="font-family:Rimouski" class="row">
+						<div class="col-2-3">
+							<h4 style="color: #eb1e5d;">Nosotros</h4>
+
+							<div class="micro divider bar line"></div>
+
+							<p>
+								Somos una estación de postres, presentamos un formato innovador en cuanto atención al público con un estilo único de nuestros
+								deliciosos productos alcanzando alta calidad en presentación, contenido y sabor.
+							</p>
+							<p>
+								Disfruta de nuestra mágica estación con una fiesta de innovadores sabores, deliciosas fusiones y nuevas experiencias ...
+								te esperamos !
+							</p>
+							</div>
+						</div>
 					</div>
-				</li>
-
-				<li>
-					<a href="#">
-						<img data-pos="0.5" src="images/fre3.jpg" alt="Image" />
-					</a>
-					<div style="padding-left: 10px;" class="fullscreen-caption">
-						<center style="padding-left: 0px;">
-							<h2 style="font-family:Rimouski">FRESAS ENCANTADAS</h2>
-						</center>
-					</div>
-				</li>
-				<li>
-					<a href="#">
-						<img data-pos="0.5" src="images/fre4.jpg" alt="Image" />
-					</a>
-					<div style="padding-left: 10px;" class="fullscreen-caption">
-						<center style="padding-left: 0px;">
-							<h2 style="font-family:Rimouski">HOT CREAM CHOCOLATE</h2>
-						</center>
-					</div>
-				</li>
-
-				<li>
-					<a href="#">
-						<img data-pos="0.5" src="images/fre5.jpg" alt="Image" />
-					</a>
-					<div style="padding-left: 10px;" class="fullscreen-caption">
-						<center style="padding-left: 0px;">
-							<h2 style="font-family:Rimouski">ILUSIÓN DE HELADO</h2>
-						</center>
-
-					</div>
-				</li>
-			</ul>
-
+				</div>
+				<!-- #content -->
+			</div>
+			<!-- #page-content -->
 		</div>
 		<!-- #page -->
-
 		<!-- INICIO NAV - FOOTER -->
 		<div id="background">
 		</div>
@@ -112,24 +88,26 @@
 				</div>
 				<!-- #site-logo -->
 
-				<nav id="main-nav">
-				<ul>
-					<li class="current">
-						<a href="nosotros.php">Nosotros</a>
-					</li>
-					<li>
-						<a href="nuestra-propuesta.php">Nuestra Propuesta</a>
-					</li>
-					<li>
-						<a href="nuestra-carta.php">Nuestra Carta</a>
-					</li>
-					<li>
-						<a href="contacto.php">Ubícanos</a>
-					</li>
-				</ul>
-			</nav>
-			</header>
 
+				<nav id="main-nav">
+					<ul>
+						<li class="current">
+							<a href="nosotros.php">Nosotros</a>
+						</li>
+						<li>
+							<a href="nuestra-propuesta.php">Nuestra Propuesta</a>
+						</li>
+						<li>
+							<a href="nuestra-carta.php">Nuestra Carta</a>
+						</li>
+						<li>
+							<a href="contacto.php">Ubícanos</a>
+						</li>
+					</ul>
+				</nav>
+				<!-- #main-nav -->
+			</header>
+			<!-- #header -->
 			<body>
 				<div class="open">
 					<span class="cls"></span>
@@ -153,6 +131,11 @@
 				</div>
 			</body>
 			<footer id="footer">
+				<!-- <div id="copyright">
+						<p>FRACHELOS</p>
+						<p>es una heladeria de estilo tailandes que se venden aqui en Peru</p>
+					</div> -->
+				<!-- #copyright -->
 
 				<div id="social-media">
 					<p>Siguenos en</p>
@@ -174,17 +157,18 @@
 
 			<a href="#" id="page-top-link">
 				<span>
-					<span>Ir Arriba</span>
+					<span>Back to top</span>
 				</span>
 			</a>
 		</div>
 		<!-- #dock -->
 
+
 		<!-- FIN NAV - FOOTER -->
 
 		<div id="preloader">
 			<span>
-				<span>Frelatos</span>
+				<span>Loading</span>
 			</span>
 		</div>
 		<!-- #preloader -->
@@ -205,7 +189,10 @@
 	<script src="plugins/mediaelement/mediaelement-and-player.min.js"></script>
 	<script src="plugins/social/jquery.social.js"></script>
 
-
+	<!-- IE -->
+	<!--[if lt IE 9]>
+			<script src="scripts/ie/ie.js" type="text/javascript"></script>
+		<![endif]-->
 </body>
 
 </html>

@@ -29,7 +29,7 @@
 		<![endif]-->
 
 	<!-- Title -->
-	<title>Ubicacion</title>
+	<title>Nuestra Propuesta</title>
 	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 </head>
 
@@ -38,90 +38,74 @@
 	<div id="main-wrap">
 
 		<div id="page" class="layout-center page-contact">
-			<header style="background-color: #eb1e5d;" id="page-head">
-				<h1>Ubícanos
+			<header style="background-color: #eb1e5d" id="page-head">
+				<h1>Nuestra Propuesta
 					<small></small>
 				</h1>
 			</header>
 			<!-- #page-head -->
 
-			<div id="page-content">
+			<div id="page-content" style="padding-right: 0px;padding-left: 0px;">
 				<div id="content">
-					<div class="row">
-						<div class="google-maps">
-							<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d124831.91549904173!2d-77.05639005992431!3d-12.112332878435101!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x9105ce543477f8d9%3A0x9d64f6794789376b!2sMegaPlaza!5e0!3m2!1ses-419!2spe!4v1506362097884"
-							    width="300" height=350 frameborder="0" style="border:0" allowfullscreen></iframe>
-						</div>
+					<div id="page" class="layout-center" style="visibility: visible; opacity: 1;padding-right: 0px;padding-left: 0px;">
+						<img id="img1" src="images/cap1.png" alt="">
 					</div>
 
 					<div style="font-family:Rimouski" class="row">
 						<div class="col-2-3">
-							<h4 style="color: #eb1e5d;">Ubícanos</h4>
+							<h4 style="color: #eb1e5d;">Nuestra Propuesta</h4>
 
 							<div class="micro divider bar line"></div>
 
-							<h5>
-								<small>Dirección</small>
-							</h5>
 							<p>
-								C.C MEGAPLAZA 1er Nivel - Patio Comidas
-								<br> AV: Alfredo Mendiola 3698, Independencia
+								En Frelatos... "tu magica estacion" buscamos a través nuestra propuesta, brindar al público la oportunidad de hacer un alto
+								en su día y mediante el consumo de nuestros postres, alcancen un punto de satisfacción, exquisitez y dulzura, con
+								productos saludables y 100% naturales.
 							</p>
-
-							<div class="row">
-								<div class="col-2-2">
-									<ul>
-										<li class="phone-2 icon">975 397 138</li>
-										<li class="mail icon">info@frelatos.com</li>
-									</ul>
-								</div>
-
-							</div>
 						</div>
-
-
 					</div>
-
 				</div>
-				<!-- #content -->
 			</div>
-			<!-- #page-content -->
+			<!-- #content -->
 		</div>
-		<!-- #page -->
-		<!-- INICIO NAV - FOOTER -->
-		<div id="background">
-		</div>
-		<!-- #background -->
+		<!-- #page-content -->
+	</div>
+	<!-- #page -->
+	<!-- INICIO NAV - FOOTER -->
+	<div id="background">
+	</div>
+	<!-- #background -->
 
-		<div id="dock">
-			<header id="header">
-				<div id="site-logo">
-					<a href="index.php">
-						<img src="images/logo.png" alt="Site Logo" />
-					</a>
-				</div>
-				<!-- #site-logo -->
+	<div id="dock">
+		<header id="header">
+			<div id="site-logo">
+				<a href="index.php">
+					<img src="images/logo.png" alt="Site Logo" />
+				</a>
+			</div>
+			<!-- #site-logo -->
 
 
-				<nav id="main-nav">
-					<ul>
-						<li class="current">
-							<a href="nosotros.php">Nosotros</a>
-						</li>
-						<li>
-							<a href="nuestra-propuesta.php">Nuestra Propuesta</a>
-						</li>
-						<li>
-							<a href="nuestra-carta.php">Nuestra Carta</a>
-						</li>
-						<li>
-							<a href="contacto.php">Ubícanos</a>
-						</li>
-					</ul>
-				</nav>
-				<!-- #main-nav -->
-			</header>
-			<body>
+			<nav id="main-nav">
+				<ul>
+					<li class="current">
+						<a href="nosotros.php">Nosotros</a>
+					</li>
+					<li>
+						<a href="nuestra-propuesta.php">Nuestra Propuesta</a>
+					</li>
+					<li>
+						<a href="nuestra-carta.php">Nuestra Carta</a>
+					</li>
+					<li>
+						<a href="contacto.php">Ubícanos</a>
+					</li>
+				</ul>
+			</nav>
+			<!-- #main-nav -->
+		</header>
+		<!-- #header -->
+		<body>
 				<div class="open">
 					<span class="cls"></span>
 					<span>
@@ -143,51 +127,48 @@
 					<span class="cls"></span>
 				</div>
 			</body>
-			<!-- #header -->
-
-			<footer id="footer">
-				<!-- <div id="copyright">
+		<footer id="footer">
+			<!-- <div id="copyright">
 						<p>FRACHELOS</p>
 						<p>es una heladeria de estilo tailandes que se venden aqui en Peru</p>
 					</div> -->
-				<!-- #copyright -->
+			<!-- #copyright -->
 
-				<div id="social-media">
-					<p>Siguenos en</p>
-					<a href="https://twitter.com/login?lang=es" target="_blank" class="icon twitter">Twitter</a>
-					<a href="https://www.facebook.com/" target="_blank" class="icon facebook">Facebook</a>
+			<div id="social-media">
+				<p>Siguenos en</p>
+				<a href="https://twitter.com/login?lang=es" target="_blank" class="icon twitter">Twitter</a>
+				<a href="https://www.facebook.com/" target="_blank" class="icon facebook">Facebook</a>
+			</div>
+			<!-- #social-media -->
+		</footer>
+		<!-- #footer -->
 
-				</div>
-				<!-- #social-media -->
-			</footer>
-			<!-- #footer -->
-
-			<a href="#" id="toggle-dock">
-				<span>
-					<span>
-						<span class="active-text">ocultar barra de navegacion</span>
-						<span class="inactive-text">aparecer barra de navegacion</span>
-					</span>
-				</span>
-			</a>
-
-			<a href="#" id="page-top-link">
-				<span>
-					<span>Back to top</span>
-				</span>
-			</a>
-		</div>
-		<!-- #dock -->
-
-
-		<!-- FIN NAV - FOOTER -->
-
-		<div id="preloader">
+		<a href="#" id="toggle-dock">
 			<span>
-				<span>Loading</span>
+				<span>
+					<span class="active-text">ocultar barra de navegacion</span>
+					<span class="inactive-text">aparecer barra de navegacion</span>
+				</span>
 			</span>
-		</div>
-		<!-- #preloader -->
+		</a>
+
+		<a href="#" id="page-top-link">
+			<span>
+				<span>Back to top</span>
+			</span>
+		</a>
+	</div>
+	<!-- #dock -->
+
+
+	<!-- FIN NAV - FOOTER -->
+
+	<div id="preloader">
+		<span>
+			<span>Loading</span>
+		</span>
+	</div>
+	<!-- #preloader -->
 
 	</div>
 	<!-- #main-wrap -->

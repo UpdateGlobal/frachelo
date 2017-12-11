@@ -2859,7 +2859,7 @@ hr {
 	position: absolute;
 	bottom: 0;
 	left: 0;
-	background: #5bc;
+	background: #eb1e5d;
 }
 
 .divider.wide.bar:before {
@@ -4000,11 +4000,11 @@ li.icon:before {
 /*-------------------------------------------------------------------------------------*/
 
 .entries {
-	/* display: block; */
-	/* position: relative; */
-	/* list-style: none; */
-	/* margin: 0; */
-	/* padding: 0; */
+	display: block;
+	position: relative;
+	list-style: none;
+	margin: 0;
+	padding: 0;
 }
 
 .entries:before,
@@ -5073,7 +5073,7 @@ a.blog-feed-link .icon {
 		right: 0;
 		top: 0;
 		position: absolute;
-		background-color: rgba(233, 2, 79, 0.459);
+		/* background-color: rgba(233, 2, 79, 0.459); */
 		border-radius: 50%;
 		z-index: 18;
 		overflow: hidden;
@@ -5297,7 +5297,7 @@ a.blog-feed-link .icon {
 		right: 0;
 		top: 0;
 		position: absolute;
-		background-color: rgba(233, 2, 79, 0.459);
+		/* background-color: rgba(233, 2, 79, 0.459); */
 		border-radius: 50%;
 		z-index: 18;
 		overflow: hidden;
@@ -5374,6 +5374,12 @@ a.blog-feed-link .icon {
 	.entries.classic-1 .entry-featured+.entry-body {
 		padding-right: 0px;
 		margin-right: 0px;
+	}
+	.menu-carta {
+		display: inline-block;
+		color: white;
+		border-right: 2px dashed white;
+		padding-right: 10px
 	}
 }
 
@@ -5524,7 +5530,7 @@ a.blog-feed-link .icon {
 		right: 0;
 		top: 0;
 		position: absolute;
-		background-color: rgba(233, 2, 79, 0.459);
+		/* background-color: rgba(233, 2, 79, 0.459); */
 		border-radius: 50%;
 		z-index: 18;
 		overflow: hidden;
@@ -5608,6 +5614,13 @@ a.blog-feed-link .icon {
 		padding-right: 0px;
 		margin-right: 0px;
 	}
+	#page-content {
+		padding: 0 0 0 0;
+	}
+	#page.layout-center,
+	{
+		padding-bottom: 0;
+	}
 }
 
 @media only screen and (max-width: 320px) {
@@ -5663,7 +5676,7 @@ a.blog-feed-link .icon {
 		right: 0;
 		top: 0;
 		position: absolute;
-		background-color: rgba(233, 2, 79, 0.459);
+		/* background-color: rgba(233, 2, 79, 0.459); */
 		border-radius: 50%;
 		z-index: 18;
 		overflow: hidden;
@@ -5741,6 +5754,44 @@ a.blog-feed-link .icon {
 		padding-right: 0px;
 		margin-right: 0px;
 	}
+	#page-content {
+		padding: 0 0 0 0;
+	}
+	ul,
+	ol {
+		padding-left: 0;
+	}
+	#page.layout-center,
+	{
+		padding-bottom: 0;
+	}
+	.menu-carta {
+		display: inline-block;
+		color: white;
+		border-right: 2px dashed white;
+		padding-right: 10px
+	}
+	.menu-carta1 {
+		display: inline-block;
+		color: white;
+		border-right: 2px dashed white;
+		padding-right: 10px !important;
+		padding-left: 20px !important;
+	}
+	.menu-carta2 {
+		display: inline-block;
+		color: white;
+		border-right: 2px dashed white;
+		padding-right: 10px!important;
+		padding-left: 20px !important;
+	}
+	.menu-carta3 {
+		display: inline-block;
+		color: white;
+		border-right: 2px dashed white;
+		padding-right: 10px !important;
+		padding-left: 20px !important;
+	}
 }
 
 #img1 {
@@ -5753,28 +5804,31 @@ a.blog-feed-link .icon {
 	display: inline-block;
 	color: white;
 	border-right: 2px dashed white;
-	padding-right: 10px
+	padding-right: 40px
 }
 
 .menu-carta1 {
 	display: inline-block;
 	color: white;
 	border-right: 2px dashed white;
-	padding-right: 10px
+	padding-right: 40px;
+	padding-left: 30px;
 }
 
 .menu-carta2 {
 	display: inline-block;
 	color: white;
 	border-right: 2px dashed white;
-	padding-right: 10px;
+	padding-right: 40px;
+	padding-left: 30px;
 }
 
 .menu-carta3 {
 	display: inline-block;
 	color: white;
 	border-right: 2px dashed white;
-	padding-right: 10px
+	padding-right: 40px;
+	padding-left: 30px;
 }
 
 .menu-carta4 {
@@ -5795,16 +5849,37 @@ a.blog-feed-link .icon {
 }
 
 .block2 {
-	
-	height: 80px;
 	position: block;
-  }
-  
-  .inner {
+}
+
+.inner {
 	display: inline-block;
 	vertical-align: middle;
 	margin-bottom: 10px;
 	border-bottom: 2px dashed #a4d25f;
 	border-right: 2px dashed #a4d25f;
-  }
-  
+	padding-bottom: 10px;
+	padding-right: 30px;
+	padding-left: 20px;
+}
+
+.inner img {
+	height: 63px;
+	width: 160px;
+}
+
+.google-maps {
+	display: block;
+	position: relative;
+	padding-bottom: 75%;
+	height: 0;
+	overflow: hidden;
+}
+
+.google-maps iframe {
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100% !important;
+	height: 100% !important;
+}

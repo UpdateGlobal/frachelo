@@ -115,44 +115,26 @@
 				<nav id="main-nav">
 					<ul>
 						<li class="current">
-							<a href="index.php">HISTORIA</a>
+							<a href="#">HISTORIA</a>
 							<ul>
 								<li>
-									<a href="home-showreel.php">VIDEO DEMOSTRATIVO</a>
+									<a href="#">NOSOTROS</a>
 								</li>
 							</ul>
 						</li>
 						<li>
-							<a href="portfolio-classic-4-w-filter.php">MAS SALUDABLE</a>
+							<a href="#">MÁS SALUDABLE</a>
 							<ul>
 								<li>
-									<a href="#">NUESTRA CARTA</a>
-									<ul>
-										<li>
-											<a href="#">VISTAS</a>
-											<ul>
-												<li>
-													<a href="portfolio-classic-4-w-filter.php">VISTA</a>
-												</li>
-											</ul>
-										</li>
-									</ul>
-								</li>
-								<li>
-									<a href="#">GALERIA DE FOTOS</a>
-									<ul>
-										<li>
-											<a href="portfolio-grid.php">FOTOS HELADOS</a>
-										</li>
-									</ul>
+									<a href="nuestra-carta.php">NUESTRA CARTA</a>
 								</li>
 							</ul>
 						</li>
 						<li>
-							<a href="#">UBICANOS</a>
+							<a href="#">UBÍCANOS</a>
 							<ul>
 								<li>
-									<a href="template-contact.php">CONTACTO</a>
+									<a href="contacto.php">CONTACTO</a>
 								</li>
 							</ul>
 						</li>

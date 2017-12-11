@@ -282,10 +282,10 @@
 				<nav id="main-nav">
 					<ul>
 						<li class="current">
-							<a href="index.php">HISTORIA</a>
+							<a href="#">HISTORIA</a>
 							<ul>
 								<li>
-									<a href="video-demostrativo.php">VIDEO DEMOSTRATIVO</a>
+									<a href="#">NOSOTROS</a>
 								</li>
 							</ul>
 						</li>
@@ -293,15 +293,12 @@
 							<a href="#">MÁS SALUDABLE</a>
 							<ul>
 								<li>
-									<li>
-										<a href="nuestra-carta.php">NUESTRA CARTA</a>
-									</li>
+									<a href="nuestra-carta.php">NUESTRA CARTA</a>
 								</li>
-
 							</ul>
 						</li>
 						<li>
-							<a href="">UBÍCANOS</a>
+							<a href="#">UBÍCANOS</a>
 							<ul>
 								<li>
 									<a href="contacto.php">CONTACTO</a>

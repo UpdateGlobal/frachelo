@@ -47,35 +47,25 @@
 						<div class="micro margin"></div>
 						
 						<div class="row">
-							<div class="col-1-3">
-								<h4>INFORMACION DE CONTACTO</h4>
+							<div class="col-2-3">
+								<h4>Encuéntranos en C.C. MEGAPLAZA</h4>
 								
 								<div class="micro divider bar line"></div>
 								
 								<h5><small>Direccion</small></h5>
 								
 								<p>
-								  AV: Alfredo Mendiola 3698, Independencia 15311
-								</p>
-								
-								<p>
-								  NUESTRA HELADERIA SE LLAMA FRACHELO  
+								  AV: Alfredo Mendiola 3698, Independencia
 								</p>
 								
 								<div class="row">
-									<div class="col-1-2">
+									<div class="col-2-2">
 										<ul>
-											<li class="phone-2 icon">012 345 6789</li>
-											<li class="mail icon">mail@domain.com</li>
+											<li class="phone-2 icon">975 397 138</li>
+											<li class="mail icon">info@frelatos.com</li>
 										</ul>
 									</div>
 									
-									<div class="col-1-2">
-										<ul>
-											<li class="facebook icon">Facebook</li>
-											<li class="twitter icon">Twitter</li>
-										</ul>
-									</div>
 								</div>
 							</div>
 							

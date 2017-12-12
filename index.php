@@ -24,57 +24,57 @@
 
 	<!-- IE -->
 	<!--[if lt IE 9]-->
-			<script src="scripts/ie/html5.js"></script>
-			<link href="styles/ie/ie.css" rel="stylesheet" />
-		<!--[endif]-->
+	<script src="scripts/ie/html5.js"></script>
+	<link href="styles/ie/ie.css" rel="stylesheet" />
+	<!--[endif]-->
 
 	<!-- Title -->
-	
+
 	<title> FRELATOS </title>
 	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 </head>
 
 
 
-	
 
-	<div id="main-wrap">
-	
+
+<div id="main-wrap">
+
 	<!-- MAIN WRAP -->
 	<div class="derecha">
-			<div id="navsocial">
-				<div id="social-med">
-					<p style>Siguenos en</p>
-					<a href="https://www.facebook.com/" target="_blank" class="icon facebook">Facebook</a>
-				</div>
-				<!-- #social-media -->
+		<div id="navsocial">
+			<div id="social-med">
+				<p style>Siguenos en</p>
+				<a href="https://www.facebook.com/" target="_blank" class="icon facebook">Facebook</a>
 			</div>
-			<!-- #navsocial -->
+			<!-- #social-media -->
 		</div>
-		<div id="page" class="fullscreen no-scroll">
+		<!-- #navsocial -->
+	</div>
+	<div id="page" class="fullscreen no-scroll">
 
 
-			<div class="fullscreen-caption1">
-				<!-- #social-media -->
-				
-				
-				<div class="izquierda">
+		<div class="fullscreen-caption1">
+			<!-- #social-media -->
 
 
-					<img src="images/principal.png" alt="">
+			<div class="izquierda">
 
 
-					<div class="movi2">
+				<img src="images/principal.png" alt="">
+
+				<div class="movi2">
+					<div id="buttons">
 						<br>
-							<button class="color">
-								<a href="nuestras-delicias.php">
-								<h6> NUESTRAS DELICIAS</h6>
-								</a>
-							</button>
-						</br>
+						<div id="buttons">
+							<a href="nuestras-delicias.php" style="font-family:Rimouski" class="btn green">NUESTRAS DELICIAS</a>
+							</br>
+						</div>
 					</div>
 				</div>
+
 			</div>
+
 
 		</div>
 	</div>
@@ -173,6 +173,6 @@
 	<!--[if lt IE 9]>
 			<script src="scripts/ie/ie.js" type="text/javascript"></script>
 		<![endif]-->
-</body>
+	</body>
 
 </html>

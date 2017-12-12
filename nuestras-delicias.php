@@ -5,7 +5,8 @@
 	<!-- Meta -->
 	<meta charset="UTF-8" />
 	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
-	<meta name="description" content="Somos una estación de postres, presentamos un formato innovador en cuanto atención al público con un estilo único de nuestros deliciosos productos alcanzando alta calidad en presentación, contenido y sabor."" />
+	<meta name="description" content="Somos una estación de postres, presentamos un formato innovador en cuanto atención al público con un estilo único de nuestros deliciosos productos alcanzando alta calidad en presentación, contenido y sabor."
+	/>
 	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 
 	<!-- Favicon -->
@@ -106,48 +107,54 @@
 		<div id="dock">
 			<header id="header">
 				<div id="site-logo">
-					<a href="index.php">
+					<a href="nuestras-delicias.php">
 						<img src="images/logo.png" alt="Site Logo" />
 					</a>
 				</div>
 				<!-- #site-logo -->
 
 				<nav id="main-nav">
-				<ul>
-					<li class="current">
-						<a href="nosotros.php">Nosotros</a>
-					</li>
-					<li>
-						<a href="nuestra-propuesta.php">Nuestra Propuesta</a>
-					</li>
-					<li>
-						<a href="nuestra-carta.php">Nuestra Carta</a>
-					</li>
-					<li>
-						<a href="contacto.php">Ubícanos</a>
-					</li>
-				</ul>
-			</nav>
+					<ul>
+						<li class="current">
+							<a href="nuestras-delicias.php">Inicio</a>
+						</li>
+						<li>
+							<a href="nosotros.php">Nosotros</a>
+						</li>
+						<li>
+							<a href="nuestra-propuesta.php">Nuestra Propuesta</a>
+						</li>
+						<li>
+							<a href="nuestra-carta.php">Nuestra Carta</a>
+						</li>
+						<li>
+							<a href="contacto.php">Ubícanos</a>
+						</li>
+					</ul>
+				</nav>
 			</header>
 
 			<body>
 				<div class="open">
 					<span class="cls"></span>
 					<span>
-					<ul class="sub-menu ">
-					<li>
-						<a href="nosotros.php" title="Nosotros">Nosotros</a>
-					</li>
-					<li>
-						<a href="nuestra-propuesta.php" title="Nuestra Propuesta">Nuestra Propuesta</a>
-					</li>
-					<li>
-						<a href="nuestra-carta.php" title="Nuestra Carta">Nuestra Carta</a>
-					</li>
-					<li>
-						<a href="contacto.php" title="Ubícanos">Ubícanos</a>
-					</li>
-				</ul>
+						<ul class="sub-menu ">
+							<li>
+								<a href="nuestras-delicias.php" title="Nuestras Delicias">Inicio</a>
+							</li>
+							<li>
+								<a href="nosotros.php" title="Nosotros">Nosotros</a>
+							</li>
+							<li>
+								<a href="nuestra-propuesta.php" title="Nuestra Propuesta">Nuestra Propuesta</a>
+							</li>
+							<li>
+								<a href="nuestra-carta.php" title="Nuestra Carta">Nuestra Carta</a>
+							</li>
+							<li>
+								<a href="contacto.php" title="Ubícanos">Ubícanos</a>
+							</li>
+						</ul>
 					</span>
 					<span class="cls"></span>
 				</div>

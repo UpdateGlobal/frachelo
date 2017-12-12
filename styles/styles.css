@@ -5792,6 +5792,8 @@ a.blog-feed-link .icon {
 		padding-right: 10px !important;
 		padding-left: 20px !important;
 	}
+
+
 }
 
 #img1 {
@@ -5882,4 +5884,34 @@ a.blog-feed-link .icon {
 	left: 0;
 	width: 100% !important;
 	height: 100% !important;
+}
+
+
+/* start da css for da buttons */
+
+.btn {
+	border-radius: 5px;
+	padding: 15px 25px;
+	font-size: 22px;
+	text-decoration: none;
+	margin: 20px;
+	color: #fff;
+	position: relative;
+	display: inline-block;
+}
+
+.btn:active {
+	transform: translate(0px, 5px);
+	-webkit-transform: translate(0px, 5px);
+	box-shadow: 0px 1px 0px 0px;
+}
+
+.green {
+	background-color: #9dc12fbe;
+	box-shadow: 0px 5px 0px 0px #9cc12f;
+}
+
+.green:hover {
+	background-color: #E9024F;
+	box-shadow: 0px 5px 0px 0px rgba(233, 2, 79, 0.781);
 }

@@ -23,10 +23,10 @@
 	<link href="plugins/mediaelement/skin.css" rel="stylesheet" />
 
 	<!-- IE -->
-	<!--[if lt IE 9]>
-			<script src="scripts/ie/html5.js"></script>
-			<link href="styles/ie/ie.css" rel="stylesheet" />
-		<![endif]-->
+	<!--[if lt IE 9]-->
+	<script src="scripts/ie/html5.js"></script>
+	<link href="styles/ie/ie.css" rel="stylesheet" />
+	<!--[endif]-->
 
 	<!-- Title -->
 	<title>Nostros</title>
@@ -48,7 +48,7 @@
 			<div id="page-content" style="padding-right: 0px;padding-left: 0px;">
 				<div id="content">
 					<div id="page" class="layout-center" style="visibility: visible; opacity: 1;padding-right: 0px;padding-left: 0px;">
-						<img id="img1" src="images/cap1.png" alt="">
+						<img id="img1" src="images/cap1.jpg" alt="">
 					</div>
 
 					<div style="font-family:Rimouski" class="row">
@@ -65,112 +65,119 @@
 								Disfruta de nuestra mágica estación con una fiesta de innovadores sabores, deliciosas fusiones y nuevas experiencias ...
 								te esperamos !
 							</p>
-							</div>
 						</div>
 					</div>
 				</div>
-				<!-- #content -->
 			</div>
-			<!-- #page-content -->
+			<!-- #content -->
 		</div>
-		<!-- #page -->
-		<!-- INICIO NAV - FOOTER -->
-		<div id="background">
-		</div>
-		<!-- #background -->
+		<!-- #page-content -->
+	</div>
+	<!-- #page -->
+	<!-- INICIO NAV - FOOTER -->
+	<div id="background">
+	</div>
+	<!-- #background -->
 
-		<div id="dock">
-			<header id="header">
-				<div id="site-logo">
-					<a href="index.php">
-						<img src="images/logo.png" alt="Site Logo" />
-					</a>
-				</div>
-				<!-- #site-logo -->
+	<div id="dock">
+		<header id="header">
+			<div id="site-logo">
+				<a href="nuestras-delicias.php">
+					<img src="images/logo.png" alt="Site Logo" />
+				</a>
+			</div>
+			<!-- #site-logo -->
 
 
-				<nav id="main-nav">
-					<ul>
-						<li class="current">
-							<a href="nosotros.php">Nosotros</a>
-						</li>
-						<li>
-							<a href="nuestra-propuesta.php">Nuestra Propuesta</a>
-						</li>
-						<li>
-							<a href="nuestra-carta.php">Nuestra Carta</a>
-						</li>
-						<li>
-							<a href="contacto.php">Ubícanos</a>
-						</li>
-					</ul>
-				</nav>
-				<!-- #main-nav -->
-			</header>
-			<!-- #header -->
-			<body>
-				<div class="open">
-					<span class="cls"></span>
-					<span>
-					<ul class="sub-menu ">
-					<li>
-						<a href="nosotros.php" title="Nosotros">Nosotros</a>
+			<nav id="main-nav">
+				<ul>
+					<li class="current">
+						<a href="nuestras-delicias.php">Inicio</a>
 					</li>
 					<li>
-						<a href="nuestra-propuesta.php" title="Nuestra Propuesta">Nuestra Propuesta</a>
+						<a href="nosotros.php">Nosotros</a>
 					</li>
 					<li>
-						<a href="nuestra-carta.php" title="Nuestra Carta">Nuestra Carta</a>
+						<a href="nuestra-propuesta.php">Nuestra Propuesta</a>
 					</li>
 					<li>
-						<a href="contacto.php" title="Ubícanos">Ubícanos</a>
+						<a href="nuestra-carta.php">Nuestra Carta</a>
+					</li>
+					<li>
+						<a href="contacto.php">Ubícanos</a>
 					</li>
 				</ul>
-					</span>
-					<span class="cls"></span>
-				</div>
-			</body>
-			<footer id="footer">
-				<!-- <div id="copyright">
+			</nav>
+			<!-- #main-nav -->
+		</header>
+		<!-- #header -->
+
+		<body>
+			<div class="open">
+				<span class="cls"></span>
+				<span>
+					<ul class="sub-menu ">
+						<li>
+							<a href="nuestras-delicias.php" title="Nuestras Delicias">Inicio</a>
+						</li>
+						<li>
+							<a href="nosotros.php" title="Nosotros">Nosotros</a>
+						</li>
+						<li>
+							<a href="nuestra-propuesta.php" title="Nuestra Propuesta">Nuestra Propuesta</a>
+						</li>
+						<li>
+							<a href="nuestra-carta.php" title="Nuestra Carta">Nuestra Carta</a>
+						</li>
+						<li>
+							<a href="contacto.php" title="Ubícanos">Ubícanos</a>
+						</li>
+					</ul>
+				</span>
+				<span class="cls"></span>
+			</div>
+		</body>
+		<footer id="footer">
+			<!-- <div id="copyright">
 						<p>FRACHELOS</p>
 						<p>es una heladeria de estilo tailandes que se venden aqui en Peru</p>
 					</div> -->
-				<!-- #copyright -->
+			<!-- #copyright -->
 
-				<div id="social-media">
-					<p>Siguenos en</p>
-					<a href="https://www.facebook.com/" target="_blank" class="icon facebook">Facebook</a>
-				</div>
-				<!-- #social-media -->
-			</footer>
-			<!-- #footer -->
+			<div id="social-media">
+				<p>Siguenos en</p>
+				<a href="https://www.facebook.com/" target="_blank" class="icon facebook">Facebook</a>
+			</div>
+			<!-- #social-media -->
+		</footer>
+		<!-- #footer -->
 
-			<a href="#" id="toggle-dock">
-				<span>
-					<span>
-						<span class="active-text">ocultar barra de navegacion</span>
-						<span class="inactive-text">aparecer barra de navegacion</span>
-					</span>
-				</span>
-			</a>
-
-			<a href="#" id="page-top-link">
-				<span>
-					<span>Back to top</span>
-				</span>
-			</a>
-		</div>
-		<!-- #dock -->
-
-
-		<!-- FIN NAV - FOOTER -->
-
-		<div id="preloader">
+		<a href="#" id="toggle-dock">
 			<span>
-				<span>Loading</span>
+				<span>
+					<span class="active-text">ocultar barra de navegacion</span>
+					<span class="inactive-text">aparecer barra de navegacion</span>
+				</span>
 			</span>
-		</div>
-		<!-- #preloader -->
+		</a>
+
+		<a href="#" id="page-top-link">
+			<span>
+				<span>Back to top</span>
+			</span>
+		</a>
+	</div>
+	<!-- #dock -->
+
+
+	<!-- FIN NAV - FOOTER -->
+
+	<div id="preloader">
+		<span>
+			<span>Loading</span>
+		</span>
+	</div>
+	<!-- #preloader -->
 
 	</div>
 	<!-- #main-wrap -->

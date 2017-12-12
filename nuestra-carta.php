@@ -38,7 +38,7 @@
 	<div id="main-wrap">
 
 		<div id="page" class="layout-center" style="visibility: visible; opacity: 1;padding-right: 0px;padding-left: 0px;">
-			<img id="img1" src="images/cap1.png" alt="">
+			<img id="img1" src="images/cap1.jpg" alt="">
 
 			<header id="page-head" style="background-color: #eb1e5d;border-bottom-width: 0px;">
 				<h1 style="font-family:Rimouski">Elije Tu Sabor Favorito
@@ -104,7 +104,7 @@
 								<div class="entry-featured">
 									<a class="colorbox overlay" title="Image opens in ColorBox" data-title="HELADOS DE VAINILLA<small>Image Opens in ColorBox</small>">
 										<div class="color-overlay"></div>
-										<img id="img2" src="images/cap2.png" alt="Image">
+										<img id="img2" src="images/cap2.jpg" alt="Image">
 									</a>
 								</div>
 								<!-- .entry-featured -->
@@ -175,6 +175,9 @@
 								<span>
 									<ul class="sub-menu ">
 										<li>
+											<a href="nuestras-delicias.php" title="Nuestras Delicias">Inicio</a>
+										</li>
+										<li>
 											<a href="nosotros.php" title="Nosotros">Nosotros</a>
 										</li>
 										<li>
@@ -201,7 +204,7 @@
 								<div class="entry-featured">
 									<a class="colorbox overlay" title="Image opens in ColorBox" data-title="HELADOS DE VAINILLA<small>Image Opens in ColorBox</small>">
 										<div class="color-overlay"></div>
-										<img src="images/cap3.png" alt="Image" />
+										<img src="images/cap3.jpg" alt="Image" />
 									</a>
 								</div>
 								<!-- .entry-featured -->
@@ -240,7 +243,7 @@
 									<small></small>
 								</h1>
 							</header>
-							<img id="img1" src="images/cap4.png" alt="">
+							<img id="img1" src="images/cap4.jpg" alt="">
 							<!-- .entry-body -->
 							<header style="background-color: white" id="page-head">
 								<h1 style="font-family:Rimouski;font-size: 2em;color: #eb1e5d;padding-bottom: 20px;">En La Presentación Que Desees
@@ -293,7 +296,7 @@
 		<div id="dock">
 			<header id="header">
 				<div id="site-logo">
-					<a href="index.php">
+					<a href="nuestras-delicias.php">
 						<img src="images/logo.png" alt="Site Logo" />
 					</a>
 				</div>
@@ -301,6 +304,9 @@
 				<nav id="main-nav">
 					<ul>
 						<li class="current">
+							<a href="nuestras-delicias.php">Inicio</a>
+						</li>
+						<li>
 							<a href="nosotros.php">Nosotros</a>
 						</li>
 						<li>

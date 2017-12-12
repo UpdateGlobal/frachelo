@@ -5,7 +5,7 @@
 	<!-- Meta -->
 	<meta charset="UTF-8" />
 	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
-	<meta name="description" content="" />
+	<meta name="description" content="Somos una estación de postres, presentamos un formato innovador en cuanto atención al público con un estilo único de nuestros deliciosos productos alcanzando alta calidad en presentación, contenido y sabor."" />
 	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 
 	<!-- Favicon -->

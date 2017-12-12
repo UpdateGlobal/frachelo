@@ -4,7 +4,7 @@
 	<!-- Meta -->
 		<meta charset="UTF-8" />
 		<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
-		<meta name="description" content="TrueStory is a powerful and at the same time light-weight flexible HTML5 website. TrueStory is responsive and looks great on retina displays and other high resolution screens. It forms an awesome experience for your visitors and offers a bunch of new and exciting features." />
+		<meta name="description" content="Somos una estación de postres, presentamos un formato innovador en cuanto atención al público con un estilo único de nuestros deliciosos productos alcanzando alta calidad en presentación, contenido y sabor." />
 		
 	<!-- Favicon -->
 		<link rel="shortcut icon" href="images/favicon.ico" />

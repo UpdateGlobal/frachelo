@@ -22,11 +22,7 @@
 	<link href="plugins/mediaelement/mediaelementplayer.min.css" rel="stylesheet" />
 	<link href="plugins/mediaelement/skin.css" rel="stylesheet" />
 
-	<!-- IE -->
-	<!--[if lt IE 9]-->
-	<script src="scripts/ie/html5.js"></script>
-	<link href="styles/ie/ie.css" rel="stylesheet" />
-	<!--[endif]-->
+
 
 	<!-- Title -->
 	<title>Nostros</title>
@@ -52,18 +48,20 @@
 					</div>
 
 					<div style="font-family:Rimouski" class="row">
-						<div class="col-2-3">
+						<div class="col-dm-3">
 							<h4 style="color: #eb1e5d;">Nosotros</h4>
 
 							<div class="micro divider bar line"></div>
 
 							<p>
-								Somos una estación de postres, presentamos un formato innovador en cuanto atención al público con un estilo único de nuestros
-								deliciosos productos alcanzando alta calidad en presentación, contenido y sabor.
+								Somos una estación de postres, presentamos un formato innovador en cuanto atención al público, el estilo único de nuestros
+								deliciosos productos alcanza una alta calidad en presentación, contenido y sabor.
+
 							</p>
-							<p>
-								Disfruta de nuestra mágica estación con una fiesta de innovadores sabores, deliciosas fusiones y nuevas experiencias ...
-								te esperamos !
+
+							<p> 
+								Te invitamos a disfrutar de nuestra mágica estación con una fiesta de innovadores sabores, deliciosas fusiones y nuevas
+								experiencias.
 							</p>
 						</div>
 					</div>
@@ -80,36 +78,36 @@
 	<!-- #background -->
 
 	<div id="dock">
-		<header id="header">
-			<div id="site-logo">
-				<a href="nuestras-delicias.php">
-					<img src="images/logo.png" alt="Site Logo" />
-				</a>
-			</div>
-			<!-- #site-logo -->
+	<header id="header">
+		<div id="site-logo">
+			<a href="nuestras-delicias.php">
+				<img src="images/logo.png" alt="Site Logo" />
+			</a>
+		</div>
+		<!-- #site-logo -->
 
 
-			<nav id="main-nav">
-				<ul>
-					<li class="current">
-						<a href="nuestras-delicias.php">Inicio</a>
-					</li>
-					<li>
-						<a href="nosotros.php">Nosotros</a>
-					</li>
-					<li>
-						<a href="nuestra-propuesta.php">Nuestra Propuesta</a>
-					</li>
-					<li>
-						<a href="nuestra-carta.php">Nuestra Carta</a>
-					</li>
-					<li>
-						<a href="contacto.php">Ubícanos</a>
-					</li>
-				</ul>
-			</nav>
-			<!-- #main-nav -->
-		</header>
+		<nav id="main-nav">
+			<ul>
+				<li class="current">
+					<a href="nuestras-delicias.php">Inicio</a>
+				</li>
+				<li>
+					<a href="nosotros.php">Nosotros</a>
+				</li>
+				<li>
+					<a href="nuestra-propuesta.php">Nuestra Propuesta</a>
+				</li>
+				<li>
+					<a href="nuestra-carta.php">Nuestra Carta</a>
+				</li>
+				<li>
+					<a href="contacto.php">Ubícanos</a>
+				</li>
+			</ul>
+		</nav>
+		<!-- #main-nav -->
+	</header>
 		<!-- #header -->
 
 		<body>
@@ -146,7 +144,7 @@
 
 			<div id="social-media">
 				<p>Siguenos en</p>
-				<a href="https://www.facebook.com/" target="_blank" class="icon facebook">Facebook</a>
+				<a href="https://www.facebook.com/frelatos/" target="_blank" class="icon facebook">Facebook</a>
 			</div>
 			<!-- #social-media -->
 		</footer>

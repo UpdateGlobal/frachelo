@@ -68,7 +68,7 @@
 					</a>
 					<div style="padding-left: 10px;" class="fullscreen-caption">
 						<center style="padding-left: 0px;">
-							<h2 style="font-family:Rimouski">FRESAS ENCANTADAS</h2>
+							<h2 style="font-family:Rimouski">FRUTAS Y TOPPINGS</h2>
 						</center>
 					</div>
 				</li>
@@ -78,7 +78,7 @@
 					</a>
 					<div style="padding-left: 10px;" class="fullscreen-caption">
 						<center style="padding-left: 0px;">
-							<h2 style="font-family:Rimouski">HOT CREAM CHOCOLATE</h2>
+							<h2 style="font-family:Rimouski">HELADO TAILANDES EN CONO</h2>
 						</center>
 					</div>
 				</li>
@@ -163,7 +163,7 @@
 
 				<div id="social-media">
 					<p>Siguenos en</p>
-					<a href="https://www.facebook.com/" target="_blank" class="icon facebook">Facebook</a>
+					<a href="https://www.facebook.com/frelatos/" target="_blank" class="icon facebook">Facebook</a>
 				</div>
 				<!-- #social-media -->
 			</footer>

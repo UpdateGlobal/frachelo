@@ -144,7 +144,7 @@
 
 				<div id="social-media">
 					<p>Siguenos en</p>
-					<a href="https://www.facebook.com/" target="_blank" class="icon facebook">Facebook</a>
+					<a href="https://www.facebook.com/frelatos/" target="_blank" class="icon facebook">Facebook</a>
 
 				</div>
 				<!-- #social-media -->

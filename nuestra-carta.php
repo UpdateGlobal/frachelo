@@ -214,21 +214,21 @@
 										<li>
 											<a style="font-family:Rimouski" title="Conazo de Fresa">Conazo de Fresa</a>
 										</li>
-										<li>
+										<!--<li>
 											<a style="font-family:Rimouski" title="Fresas Encantadas x Und.">Fresas Encantadas x Und.</a>
-										</li>
+										</li> -->
 										<li>
 											<a style="font-family:Rimouski" title="Manzana Acaramelada">Manzana Acaramelada</a>
 										</li>
-										<li>
+										<!--<li>
 											<a style="font-family:Rimouski" title="Manzana con Chocolate">Manzana con Chocolate</a>
 										</li>
 										<li>
 											<a style="font-family:Rimouski" title="Hot Cream Chocolate">Hot Cream Chocolate</a>
 										</li>
 										<li>
-											<a style="font-family:Rimouski" title="marshmallow">marshmallow</a>
-										</li>
+											<a style="font-family:Rimouski" title="marshmallow">Marshmallow</a>
+										</li> -->
 										<li>
 											<a style="font-family:Rimouski" title="Milshake">Milshake</a>
 										</li>
@@ -333,7 +333,7 @@
 
 				<div id="social-media">
 					<p>Siguenos en</p>
-					<a href="https://www.facebook.com/" target="_blank" class="icon facebook">Facebook</a>
+					<a href="https://www.facebook.com/frelatos/" target="_blank" class="icon facebook">Facebook</a>
 				</div>
 				<!-- #social-media -->
 			</footer>

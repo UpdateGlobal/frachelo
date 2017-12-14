@@ -45,7 +45,7 @@
 		<div id="navsocial">
 			<div id="social-med">
 				<p style>Siguenos en</p>
-				<a href="https://www.facebook.com/" target="_blank" class="icon facebook">Facebook</a>
+				<a href="https://www.facebook.com/frelatos/" target="_blank" class="icon facebook">Facebook</a>
 			</div>
 			<!-- #social-media -->
 		</div>
@@ -56,13 +56,8 @@
 
 		<div class="fullscreen-caption1">
 			<!-- #social-media -->
-
-
 			<div class="izquierda">
-
-
 				<img src="images/principal.png" alt="">
-
 				<div class="movi2">
 					<div id="buttons">
 						<br>
@@ -72,10 +67,7 @@
 						</div>
 					</div>
 				</div>
-
 			</div>
-
-
 		</div>
 	</div>
 	<!-- #page -->
@@ -139,7 +131,7 @@
 	<!-- div id="social-media">
 						<p>Siguenos en:</p>
 						<a href="https://twitter.com/" target="_blank" class="icon twitter">Twitter</a>
-						<a href="https://www.facebook.com/" target="_blank" class="icon facebook">Facebook</a>
+						<a href="https://www.facebook.com/frelatos/" target="_blank" class="icon facebook">Facebook</a>
 						<a href="https://www.youtube.com" target="_blank" class="icon youtube">youtube</a>
 					</div><!-- -->
 	<!-- #social-media -->

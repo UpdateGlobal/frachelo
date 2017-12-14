@@ -58,9 +58,8 @@
 							<div class="micro divider bar line"></div>
 
 							<p>
-								En Frelatos... "tu magica estacion" buscamos a través nuestra propuesta, brindar al público la oportunidad de hacer un alto
-								en su día y mediante el consumo de nuestros postres, alcancen un punto de satisfacción, exquisitez y dulzura, con
-								productos saludables y 100% naturales.
+								En Frelatos, "Tu mágica estación", queremos brindarte la oportunidad de hacer un alto en tu día y mediante el consumo de
+								nuestros postres, alcances un punto de satisfacción, exquisitez y dulzura. Con productos saludables y 100% naturales.
 							</p>
 						</div>
 					</div>
@@ -143,7 +142,7 @@
 
 			<div id="social-media">
 				<p>Siguenos en</p>
-				<a href="https://www.facebook.com/" target="_blank" class="icon facebook">Facebook</a>
+				<a href="https://www.facebook.com/frelatos/" target="_blank" class="icon facebook">Facebook</a>
 			</div>
 			<!-- #social-media -->
 		</footer>

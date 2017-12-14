@@ -867,7 +867,7 @@ del {
 	display: block;
 	position: relative;
 	padding: 0 20px;
-	font: normal normal 13px/80px 'Oswald', Arial, sans-serif;
+	font: normal normal 13px/80px 'Rimouski';
 	text-decoration: none;
 	color: #fff;
 	border-bottom: 1px solid #111;
@@ -932,7 +932,7 @@ del {
 	position: relative;
 	display: block;
 	padding: 7px 20px;
-	font: normal normal 11px/14px 'Oswald', Arial, sans-serif;
+	font: normal normal 11px/14px 'Rimouski';
 	text-decoration: none;
 	color: #888;
 }
@@ -977,7 +977,7 @@ del {
 	display: block;
 	width: 100%;
 	height: 80px;
-	font: normal normal 10px/16px 'Open Sans Semibold', Arial, sans-serif;
+	font: normal normal 10px/16px 'Rimouski'
 	text-transform: uppercase;
 	color: white;
 }
@@ -993,7 +993,7 @@ del {
 	display: block;
 	width: 100%;
 	height: 50px;
-	font: normal normal 10px/16px 'Open Sans Semibold', Arial, sans-serif;
+	font: normal normal 10px/16px 'Rimouski';
 	text-transform: uppercase;
 	color: white;
 	border-top: 1px solid #111;
@@ -1105,7 +1105,7 @@ del {
 	left: -100%;
 	top: -73px;
 	padding: 0 36px 0 0;
-	font: normal normal 1.04em/36px 'Open Sans Condensed Bold', Arial, sans-serif;
+	font: normal normal 1.04em/36px 'Rimouski';
 	text-transform: uppercase;
 	text-align: center;
 	color: #fff;
@@ -5797,9 +5797,11 @@ a.blog-feed-link .icon {
 }
 
 #img1 {
-	width: 1200px;
-	height: 400px;
+	display: block;
 	padding-top: 0px;
+    max-width: 100%;
+	height: auto
+
 }
 
 .menu-carta {
@@ -5835,7 +5837,6 @@ a.blog-feed-link .icon {
 
 .menu-carta4 {
 	color: #a4d25f;
-	border-bottom: 2px dashed #a4d25f;
 	padding-bottom: 5px;
 }
 
@@ -5858,7 +5859,6 @@ a.blog-feed-link .icon {
 	display: inline-block;
 	vertical-align: middle;
 	margin-bottom: 10px;
-	border-bottom: 2px dashed #a4d25f;
 	border-right: 2px dashed #a4d25f;
 	padding-bottom: 10px;
 	padding-right: 30px;

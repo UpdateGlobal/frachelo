@@ -1573,8 +1573,8 @@
                 element: $("#site-logo")
             },
             menu: {
-                element: $("#main-nav"),
-                root: $("#main-nav").children("ul"),
+                element: $("#main-nav1"),
+                root: $("#main-nav1").children("ul"),
                 height: 0,
                 active: false,
                 hasSubmenus: false,
